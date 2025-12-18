@@ -293,7 +293,7 @@ ol {
   text-underline-offset: 2px;
 }
 
-.search-form__submit-button:active {
+.button:active {
   background-color: #545050;
   text-decoration: none;
 }
